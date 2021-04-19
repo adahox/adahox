@@ -16,6 +16,9 @@
  ## My Stats
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adahox&count_private=true&show_icons=true&theme=dark)
  
+ ## My Passion
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adahox&langs_count=8&theme=dark)](https://github.com/adahox/github-readme-stats)
+ 
 - Juntos somos mais fortes.
  
 - Obrigado.
