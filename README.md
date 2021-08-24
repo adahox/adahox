@@ -1,10 +1,11 @@
-<img align="right" height="400" src="https://olharacessivel.com.br/images/adÃ£o_casamento.jpg">
- 
+
 # Welcome!
  
 ## Adão Dias
  
-… Started in developer world when i was 11. I am curious about everything and it is what makes my love for IT increase everyday. 
+Started in developer world when i was 11. I am curious about everything and it is what makes my love for IT increase everyday. CEO at [Olhar Acessível](https://www.olharacessivel.com.br) and backend developer at Lotta Leben. 
+
+
  
  
 ## About me 
