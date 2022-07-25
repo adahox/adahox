@@ -3,7 +3,7 @@
  
 ## Adão Dias
  
-Started in developer world when i was 11. I am curious about everything and it is what makes my love for IT increase everyday. CEO at [Olhar Acessível](https://www.olharacessivel.com.br) and backend developer at Lotta Leben. 
+Started in developer world when i was 11. I am curious about everything and it is what makes my love for IT increase everyday. CEO at [Olhar Acessível](https://www.olharacessivel.com.br).
 
 
  
